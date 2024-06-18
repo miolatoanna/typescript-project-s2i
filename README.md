@@ -6,7 +6,7 @@ This project aims to develop a typescript system that models the operating struc
 
 By defining interfaces and classes that represent the various components of the system, the project demonstrates how technology can support sustainable innovation in the fashion industry.
 
-You can try my project HERE on CodPen.
+You can try my project <a href="https://codepen.io/miolatoanna/pen/dyEdzjd?editors=1111">HERE</a> on CodPen.
 
 
 # How to use
